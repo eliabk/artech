@@ -49,6 +49,35 @@ export function renderAbout(app) {
         </div>
       </section>
 
+      <section class="about-mission">
+        <div class="container mission-grid">
+          <div class="mission-text">
+            <p class="eyebrow">NOTRE MISSION <span></span></p>
+            <h2 class="section-title">Votre réussite, <span>notre mission.</span></h2>
+            <p class="section-text">Chez ART-TECH SARL, notre mission est de mettre la technologie, l'expertise technique et notre capacité d'approvisionnement au service de la performance de nos clients.</p>
+            <p class="section-text">Nous nous engageons à être bien plus qu'un simple fournisseur : nous sommes un partenaire de confiance qui comprend vos contraintes, qui s'adapte à votre environnement et qui vous accompagne dans la durée.</p>
+            <p class="section-text">Notre objectif est de construire des relations professionnelles durables, fondées sur la confiance, la réactivité et la qualité de service, en proposant des solutions complètes, fiables et adaptées au terrain.</p>
+          </div>
+          <div class="mission-cards">
+            <div class="mission-card">
+              <span class="mission-icon">🎯</span>
+              <h4>Performances durables</h4>
+              <p>Des solutions pensées pour la performance et la continuité de vos opérations, quel que soit votre environnement.</p>
+            </div>
+            <div class="mission-card">
+              <span class="mission-icon">🌍</span>
+              <h4>Adaptées au terrain</h4>
+              <p>Nos solutions tiennent compte des réalités opérationnelles, climatiques, énergétiques et techniques locales.</p>
+            </div>
+            <div class="mission-card">
+              <span class="mission-icon">🤝</span>
+              <h4>Relations durables</h4>
+              <p>Construire des relations professionnelles fondées sur la confiance, la réactivité et la qualité de service.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <section class="about-approach">
         <div class="container">
           <h2 class="section-title center">NOTRE <span>APPROCHE</span></h2>
